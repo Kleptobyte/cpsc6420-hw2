@@ -1,0 +1,7 @@
+condition,noise_p,episodes,mean_reward,success_rate
+baseline,0.0,30,-13.0,1.0
+selected,0.0,30,-13.0,1.0
+original,0.1,30,-61.333333333333336,1.0
+retrained,0.1,30,-22.8,1.0
+original,0.25,30,-188.33333333333334,1.0
+retrained,0.25,30,-52.46666666666667,1.0
